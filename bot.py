@@ -1,4 +1,3 @@
-from distutils.command.clean import clean
 import mylib
 from binance.client import Client
 import matplotlib
